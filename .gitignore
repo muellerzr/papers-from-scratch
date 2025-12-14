@@ -1,0 +1,7 @@
+**/__pycache__/
+
+# Ignore all Python files
+*.py
+
+# But keep any Python file that contains "ground_truth.py" in its name
+!*ground_truth.py
